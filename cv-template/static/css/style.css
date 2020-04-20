@@ -1,8 +1,8 @@
-Ôªø@font-face {font-family: 'iconfont';
+@font-face {font-family: 'iconfont';
     src: url('../fonts/iconfont.eot'); /* IE9*/
     src: url('../fonts/iconfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-    url('../fonts/iconfont.woff') format('woff'), /* chrome„ÄÅfirefox */
-    url('../fonts/iconfont.ttf') format('truetype'), /* chrome„ÄÅfirefox„ÄÅopera„ÄÅSafari, Android, iOS 4.2+*/
+    url('../fonts/iconfont.woff') format('woff'), /* chrome°¢firefox */
+    url('../fonts/iconfont.ttf') format('truetype'), /* chrome°¢firefox°¢opera°¢Safari, Android, iOS 4.2+*/
     url('../fonts/iconfont.svg#iconfont') format('svg'); /* iOS 4.1- */
 }
 
@@ -171,10 +171,9 @@ progress::-moz-progress-value {
 
 .weixin{
     margin-top: 20px;
-    background-color: #e0eaf0;   
     position: relative;
-    padding-top: 40px;
-    padding-bottom: 40px;
+    padding-top: 10px;
+    padding-bottom: 5px;
     text-align: center;
 }
 
