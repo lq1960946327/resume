@@ -172,8 +172,8 @@ progress::-moz-progress-value {
 .weixin{
     margin-top: 20px;
     position: relative;
-    padding-top: 10px;
-    padding-bottom: 5px;
+    padding-top: 20px;
+    padding-bottom: 20px;
     text-align: center;
 }
 
